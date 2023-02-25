@@ -42,7 +42,7 @@ body {
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
-    transition: 400ms;
+    transition: 1s;
 }
 
 .botao_secundario {
@@ -134,7 +134,7 @@ body {
     text-decoration: none;
     color: var(--branco-principal);
     margin-left: 1em;
-    transition: 400ms;
+    transition: 1s;
 }
 
 .rodape__texto {
