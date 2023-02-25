@@ -1,3 +1,4 @@
-const containers = document.querySelector('.container')
+const containers = document.querySelector('.secundario')
+const scrollY = window.scrollY
 
-console.log(containers)
+window.scroll(scrollY >= containers.getBoundingClientRect(y)?containers.classList = 'entrada')
