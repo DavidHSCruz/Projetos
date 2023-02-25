@@ -32,6 +32,15 @@ body {
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
+    opacity: 0;
+    transition: 1s;
+}
+
+.container.entrada {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    opacity: 1;
 }
 
 .container__botao {
